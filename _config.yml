@@ -1,20 +1,25 @@
 title: Shafanda Nabil Sembodo # your name (or website title) here
-logo: "/images/photo_profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <div style="text-align: center;">
+    <!-- Photo Profile with Circular Frame -->
+    <img src="/images/photo_profile.jpeg?raw=true" alt="Profile Picture" 
+         style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #ccc; object-fit: cover;">
+  </div>
   <br><br>
   Data scientist with 3+ years of experience in oil & gas, education, and healthcare. 
   Skilled in data analysis, mining, and AI, certified by IBM as a Data Science Practitioner. 
   Expert at turning raw data into insights to drive informed decisions and business growth.
   <br><br>
-  I’m always open to new opportunities and collaborations. Feel free to connect with me!  
+  Feel free to connect with me!  
   <br><br>
+  <div style="display: flex; gap: 15px; align-items: center; justify-content: center; margin-top: 10px;">
   <a href="mailto:your-email@gmail.com" target="_blank" title="Email">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width: 40px; height: 40px;"></a>
   <a href="https://medium.com/@your-medium-profile" target="_blank" title="Medium">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" style="width: 40px; height: 40px;"></a>
   <a href="https://github.com/your-github-profile" target="_blank" title="GitHub">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 40px; height: 40px;"></a>
-  
+  </div>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
