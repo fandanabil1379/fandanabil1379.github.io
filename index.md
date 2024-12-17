@@ -1,4 +1,4 @@
-# 🚀 Welcome to my Portfolio!
+# 🚀 Professional Portfolio: Skills, Projects, and Passion
 
 ---
 This page showcases a collection of projects that highlight my expertise across the full spectrum of data science. Each project is meticulously crafted to demonstrate not just technical proficiency but also the ability to deliver **actionable insights** and **business impact**.  
