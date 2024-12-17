@@ -1,15 +1,15 @@
-# 📁 Portfolio  
+# 🚀 Welcome to my Full Stack Data Science Portfolio!
 
 ---
 
-## 🔧 **Data Engineering**
+### 🔧 **Data Engineering**
 > "Crafting data pipelines and infrastructure for analysis and reporting."
 
 - Soon
 
 ---
 
-## 📊 **Data Analytics**
+### 📊 **Data Analytics**
 > "Analyzing data to uncover insights and crafting compelling visual narratives."
 
 - **Cyclistics**  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🤖 **Machine Learning**
+### 🤖 **Machine Learning**
 > "Building intelligent models beyond basic API calls, focusing on problem-solving with data."
 
 - **Telco Customer Churn Prediction**  
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 **Model Deployment**
+### 🌐 **Model Deployment**
 > "Implementing machine learning solutions in production using scalable REST APIs."
 
 - Soon
