@@ -5,9 +5,20 @@ description: >
          style="width: 270px; height: 270px; object-fit: cover; object-position: top; border-radius: 75%;">
   </div>
   <br><br>
-  Full-stack data scientist with 3+ years of experience in oil & gas, education, and healthcare. 
+  **Full-stack data scientist** with 3+ years of experience in oil & gas, education, and healthcare. 
   Certified IBM Data Science Practitioner skilled in data analysis, mining, and AI. 
   Expert in transforming raw data into actionable insights to drive decisions and business growth.
+  <br><br>
+  Tools & Technologies I Use:  
+  <div style="display: flex; gap: 15px; align-items: center; justify-content: flex-start; margin-top: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" style="width: 40px; height: 40px;" title="Pandas">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" style="width: 40px; height: 40px;" title="Scikit-learn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" style="width: 40px; height: 40px;" title="PyTorch">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" style="width: 40px; height: 40px;" title="TensorFlow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Matplotlib_logo.svg" alt="Matplotlib" style="width: 40px; height: 40px;" title="Matplotlib">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" style="width: 40px; height: 40px;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau"  style="width: 40px; height: 40px;">
+  </div>
   <br><br>
   Feel free to connect with me!  
   <br><br>
