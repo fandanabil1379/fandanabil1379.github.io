@@ -1,4 +1,4 @@
-# 🚀 Welcome to my Full Stack Data Science Portfolio!
+# 🚀 Welcome to my Portfolio!
 
 ---
 
