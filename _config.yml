@@ -1,9 +1,7 @@
-title: Shafanda Nabil Sembodo # your name (or website title) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Shafanda Nabil Sembodo
+description: >
   <div style="text-align: center;">
-    <!-- Photo Profile with Circular Frame -->
-    <img src="/images/photo_profile.jpeg?raw=true" alt="Profile Picture" 
-         style="width: 210px; height: 210px; border-radius: 80%; border: 1.5px solid #ccc; object-fit: cover;">
+    <img src="/images/photo_profile.jpeg?raw=true" alt="Profile Picture" style="width: 210px; height: 210px; object-fit: cover;">
   </div>
   <br><br>
   Data scientist with 3+ years of experience in oil & gas, education, and healthcare. 
