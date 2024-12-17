@@ -1,7 +1,8 @@
 title: Hi! I'm Nabil
 description: >
   <div style="text-align: center;">
-    <img src="/images/photo_profile.jpeg?raw=true" alt="Profile Picture" style="width: 210px; height: 300px; object-fit: cover;">
+    <img src="/images/photo_profile.jpeg?raw=true" alt="Profile Picture" 
+         style="width: 210px; height: 210px; object-fit: cover; object-position: top; border-radius: 50%;">
   </div>
   <br><br>
   Full-stack data scientist with 3+ years of experience in oil & gas, education, and healthcare. 
