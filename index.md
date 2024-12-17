@@ -1,18 +1,41 @@
-## Portfolio
+# 📁 Portfolio  
 
 ---
 
-### Data Analytics
-I love telling a story. Making a beautiful and compelling presentation is on of my favorite skills.
+## 🔧 **Data Engineering**
+> "Crafting data pipelines and infrastructure for analysis and reporting."
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Soon
 
 ---
 
-### Machine Learning
-Machine learning is more than an API call to scikit-learn.
+## 📊 **Data Analytics**
+> "Analyzing data to uncover insights and crafting compelling visual narratives."
 
-- [Telco Customer Churn Prediction](/pdf/sample_presentation.pdf)
+- **Cyclistics**  
+  [🖥️ View Code](https://github.com/fandanabil1379/Cyclistics)
 
+---
+
+## 🤖 **Machine Learning**
+> "Building intelligent models beyond basic API calls, focusing on problem-solving with data."
+
+- **Telco Customer Churn Prediction**  
+  [🖥️ View Code](https://github.com/fandanabil1379/Cyclistics)  
+  [📑 View Presentation](/pdf/sample_presentation.pdf)
+
+---
+
+## 🌐 **Model Deployment**
+> "Implementing machine learning solutions in production using scalable REST APIs."
+
+- Soon
+
+---
+
+### 💬 **Natural Language Processing (NLP)**
+> "Applying NLP techniques to analyze human interaction and motivations."  
+
+- Soon
+  
 ---
