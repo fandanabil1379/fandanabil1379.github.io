@@ -3,7 +3,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <div style="text-align: center;">
     <!-- Photo Profile with Circular Frame -->
     <img src="/images/photo_profile.jpeg?raw=true" alt="Profile Picture" 
-         style="width: 180px; height: 180px; border-radius: 50%; border: 1.5px solid #ccc; object-fit: cover;">
+         style="width: 210px; height: 210px; border-radius: 80%; border: 1.5px solid #ccc; object-fit: cover;">
   </div>
   <br><br>
   Data scientist with 3+ years of experience in oil & gas, education, and healthcare. 
@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Feel free to connect with me!  
   <br><br>
-  <div style="display: flex; gap: 15px; align-items: center; justify-content: center; margin-top: 10px;">
+  <div style="display: flex; gap: 15px; align-items: center; justify-content: flex-start; margin-top: 10px;">
   <a href="mailto:your-email@gmail.com" target="_blank" title="Email">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width: 25px; height: 25px;"></a>
   <a href="https://medium.com/@shafandanabil" target="_blank" title="Medium">
