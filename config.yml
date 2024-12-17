@@ -1,7 +1,10 @@
 title: John Doe # your name (or website title) here
-logo: "/images/photo_profile?raw=true" # your photo (or logo) here
+logo: "/images/photo_profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Accomplished data scientist with more than three years of relevant experience in oil & gas,
+  education, and healthcare applications. Proficient in data analysis, data mining, and artificial
+  intelligence. Certified by IBM as a Data Science Practitioner, skilled in transforming raw data into
+  actionable insights to make informed decisions and drive business growth.
   <br><br>
   Second description 
   <br><br>
