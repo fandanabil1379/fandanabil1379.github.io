@@ -21,9 +21,7 @@ This page showcases a collection of projects that highlight my expertise across 
 ### 🤖 **Machine Learning & Deployment**
 > "Building intelligent models beyond basic API calls, focusing on problem-solving with data."
 
-- **Telco Customer Churn Prediction**  
-  [🖥️ View Code](https://github.com/fandanabil1379/Cyclistics)  
-  [📑 View Presentation](/pdf/sample_presentation.pdf)
+- **From Churn to Loyalty: Data-Backed Strategies to Minimize Telco Churn Rate** [🖥️ View Code](https://github.com/fandanabil1379/ml-telco-churn) [📑 View Presentation](https://drive.google.com/file/d/1Bo8_IrSq_38X3dyFyT9gxQp3ccQxGUJS/view?usp=sharing)
 
 ---
 
