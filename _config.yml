@@ -12,14 +12,16 @@ description: >
   I’m always open to new opportunities and collaborations. Feel free to connect with me!  
   <br><br>
   <div style="display: flex; gap: 15px; align-items: center; justify-content: flex-start; margin-top: 10px;">
-  <a href="mailto:your-email@gmail.com" target="_blank" title="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width: 25px; height: 25px;"></a>
-  <a href="https://medium.com/@shafandanabil" target="_blank" title="Medium">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" style="width: 25px; height: 25px;"></a>
-  <a href="https://github.com/fandanabil1379" target="_blank" title="GitHub">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 25px; height: 25px;"></a>
+    <a href="mailto:your-email@gmail.com" target="_blank" title="Email">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width: 25px; height: 25px;"></a>
+    <a href="https://medium.com/@shafandanabil" target="_blank" title="Medium">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" style="width: 25px; height: 25px;"></a>
+    <a href="https://github.com/fandanabil1379" target="_blank" title="GitHub">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 25px; height: 25px;"></a>
+    <a href="https://drive.google.com/file/d/1M50b8RH6D3P_F2DYEo2svX0ypsguP18x/view?usp=sharing" target="_blank" title="Resume">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="CV" style="width: 25px; height: 25px;"></a>
   </div>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0
