@@ -1,23 +1,28 @@
-🚀 **Welcome to my Full Stack Data Science Portfolio!**  
+# fandanabil1379.github.io
 
-This repository showcases a collection of real-world projects that highlight my expertise across the full spectrum of data science—from **data engineering** and **analysis** to **machine learning** and **deployment**. Each project is meticulously crafted to demonstrate not just technical proficiency but also the ability to deliver **actionable insights** and **business impact**.  
+Personal portfolio website for **Shafanda Nabil Sembodo** — Data Scientist & ML Engineer.
 
-## **✨ Key Highlights**  
-- **Data Engineering**: End-to-end pipelines for cleaning, processing, and managing large-scale datasets.  
-- **Exploratory Data Analysis (EDA)**: Storytelling with data through compelling visualizations and insights.  
-- **Machine Learning**: Predictive modeling, feature engineering, and hyperparameter optimization.  
-- **Deep Learning**: Cutting-edge neural networks for image and text analysis.  
-- **Deployment**: Building APIs and deploying ML models for real-world applications using **Streamlit**, **Flask**, and **Docker**.  
+## About
 
-## **👨‍💻 Tech Stack**  
-- **Languages**: Python, SQL, R  
-- **Tools & Frameworks**: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Tableau, Power BI  
-- **Cloud Platforms**: AWS, Google Cloud, Azure  
-- **Version Control**: Git, GitHub Actions  
+A responsive portfolio site showcasing professional experience, projects, and technical expertise across data science, machine learning, and AI engineering.
 
-## **🎯 Let’s Collaborate!**  
-I’m always open to new opportunities and collaborations. Whether you’re a **business leader** seeking data-driven strategies or a fellow data scientist exploring innovative ideas, feel free to connect with me!  
+**Live site:** [fandanabil1379.github.io](https://fandanabil1379.github.io)
 
-> 🔗 **[LinkedIn Profile](https://linkedin.com/in/shafandanabil)** | 🌟 **[Follow Me](https://github.com/fandanabil1379)**  
+## Tech Stack
 
----
+- HTML5 / CSS3 / Vanilla JavaScript
+- Jekyll (GitHub Pages)
+- Responsive design with dark/light theme toggle
+
+## Sections
+
+- **About** — Background and professional summary
+- **Expertise** — Technical skills across programming, ML, MLOps, visualization, cloud, and specialized domains
+- **Projects** — Selected data science and ML projects with real-world business impact
+- **Experience** — Professional timeline
+- **Education & Certifications** — Academic background and credentials
+- **Contact** — Get in touch
+
+## License
+
+© 2025 Shafanda Nabil Sembodo. All rights reserved.
